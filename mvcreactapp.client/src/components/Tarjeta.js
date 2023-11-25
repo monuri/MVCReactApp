@@ -1,3 +1,5 @@
+/*
+
 const Tarjeta = (props) => {
 
     return (
@@ -12,4 +14,4 @@ const Tarjeta = (props) => {
 }
 
  export default Tarjeta;
-  
+  */
